@@ -1,1 +1,1 @@
-cd build && cmake ..&& make &&echo "" && ./example/projectB/test&&cd ..
+cd build && cmake ..&& make &&echo "" && ./example/projectA/test&&cd ..
